@@ -1,3 +1,9 @@
+# Buyun Comment:
+
+1. hugo server -D --disableFastRender --watch --poll 1000
+
+
+
 # [The Academic CV That Gets You Hired](https://github.com/HugoBlox/theme-academic-cv)
 
 [![Screenshot](.github/preview.webp)](https://hugoblox.com/templates/academic-cv/start/?utm_source=github&utm_medium=readme)
