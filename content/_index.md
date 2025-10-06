@@ -69,6 +69,24 @@ sections:
         folders:
           - publications
         exclude_featured: false
+        exclude_future: false
+        exclude_past: false
+
+      sort_by: 'Weight'       # <- built-in Hugo page weight
+      sort_ascending: true    # 1 before 2 before 3
+
+      # filter_default: 0
+      # filter_button:
+      #   - name: Selected
+      #     tag: 'Selected'
+      #   - name: Trustworthy AI
+      #     tag: 'Trustworthy_AI'
+      #   - name: OPT for AI
+      #     tag: 'Optimization'
+      #   - name: 'AI for Science & Scientific Computing'
+      #     tag: 'AI4Science'
+      #   - name: All
+      #     tag: '*'
     design:
       view: citation
       
