@@ -140,6 +140,7 @@ sections:
     design:
       view: card   # ← respects columns well
       columns: 3           # ← three per row on desktop
+      css_class: bg-gray-100
       # Choose a layout view
       # view: card
       # # Reduce spacing
@@ -147,6 +148,20 @@ sections:
       # #   padding: [0, 0, 0, 0]
       # css_class: bg-gray-100
       # columns: 3
+
+  - block: markdown
+    id: contact
+    content:
+      title: "Contact"
+      text: |-
+        Email: byliang at seas dot upenn dot edu  
+    design:
+      columns: "1"
+
+      spacing:
+        padding: [2, 0, 0, 0]
+      
+
 
 
     
@@ -180,4 +195,14 @@ sections:
   #       # Card background color (CSS class)
   #       css_class: 'bg-primary-300'
   #       css_style: ''
+
+
+
+
+
+
+
+
+
+
 ---
