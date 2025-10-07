@@ -138,13 +138,15 @@ sections:
       # # Page order: descending (desc) or ascending (asc) date.
       # order: desc
     design:
+      view: card   # ← respects columns well
+      columns: 3           # ← three per row on desktop
       # Choose a layout view
-      view: card
-      # Reduce spacing
-      # spacing:
-      #   padding: [0, 0, 0, 0]
-      css_class: bg-gray-100
-      columns: 3
+      # view: card
+      # # Reduce spacing
+      # # spacing:
+      # #   padding: [0, 0, 0, 0]
+      # css_class: bg-gray-100
+      # columns: 3
 
 
     
