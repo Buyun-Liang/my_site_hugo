@@ -46,6 +46,8 @@ featured: true
 links:
 - name: Official Website
   url: https://ncvx.org/
+- name: Code
+  url: 'https://github.com/sun-umn/PyGRANSO'
 - name: NeurIPS Page
   url: https://neurips.cc/virtual/2022/57153
 - name: arXiv

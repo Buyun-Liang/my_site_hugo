@@ -52,6 +52,8 @@ links:
   url: 'https://neurips.cc/virtual/2025/poster/119640'
 - name: Code
   url: 'https://github.com/Buyun-Liang/SECA'
+- name: arXiv
+  url: https://arxiv.org/abs/2510.04398
 
 
 # # Featured image
