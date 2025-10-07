@@ -10,6 +10,12 @@ summary: NCVX (NonConVeX) is a user-friendly and scalable python software packag
 tags: 
 date: '2022-07-25T00:00:00Z'
 
+# Featured image settings
+image:
+  filename: featured.png
+  preview_only: false
+  focal_point: center
+
 # # Optional external URL for project (replaces project detail page).
 # external_link: 'https://ncvx.org/'
 
