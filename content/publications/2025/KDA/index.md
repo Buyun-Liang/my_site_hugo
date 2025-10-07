@@ -37,7 +37,7 @@ abstract:  Jailbreak attacks exploit specific prompts to bypass LLM safeguards, 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: ["Selected","Trustworthy_AI"]
+# tags: ["Selected","Trustworthy_AI"]
 
 # Display this page in the Featured widget?
 featured: true
@@ -45,7 +45,7 @@ featured: true
 # Custom links (uncomment lines below)
 links:
 - name: arXiv
-  url: 'https://arxiv.org/pdf/2502.05223'
+  url: 'https://arxiv.org/abs/2502.05223'
 # - name: Slides
 #   url: 'publication/Robustness/Robustness_slides.pdf'
 

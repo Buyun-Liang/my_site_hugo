@@ -40,7 +40,7 @@ abstract: Empirical evaluation of deep learning models against adversarial pertu
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: ["Trustworthy_AI"]
+# tags: ["Trustworthy_AI"]
 
 # Display this page in the Featured widget?
 featured: true

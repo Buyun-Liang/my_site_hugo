@@ -39,7 +39,7 @@ abstract: 'Molecular dynamics simulations in the microcanonical ensemble are per
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: ["AI4Science"]
+# tags: ["AI4Science"]
 
 # Display this page in the Featured widget?
 featured: true

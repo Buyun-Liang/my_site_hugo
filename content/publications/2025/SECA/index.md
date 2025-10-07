@@ -40,7 +40,7 @@ abstract: "Large Language Models (LLMs) are increasingly deployed in high-risk d
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: ["Selected","Trustworthy_AI"]
+# tags: ["Selected","Trustworthy_AI"]
 
 # Display this page in the Featured widget?
 featured: true
