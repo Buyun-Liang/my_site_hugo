@@ -44,12 +44,22 @@ featured: true
 
 # Custom links (uncomment lines below)
 links:
+- name: Official Website
+  url: https://ncvx.org/
 - name: NeurIPS Page
   url: https://neurips.cc/virtual/2022/57153
 - name: arXiv
   url: https://arxiv.org/abs/2210.00973
-- name: Poster
+- name: OPT22 Poster
   url: 'publication/NCVX_exp/NCVX_poster.png'
+- name: ICCOPT22 Slides
+  url: 'publication/NCVX_exp/ICCOPT22-NCVX.pdf'
+- name: SDM 2023 Tutorial Slides
+  url: publication/NCVX_exp/SDM23_Deep_Learning_with_Nontrivial_Constraints.pdf
+- name: MMLS 2023 Poster
+  url: publication/NCVX_exp/MMLS_Poster.pdf
+- name: 3M Poster (2023)
+  url: publication/NCVX_exp/3M_Poster_NCVX.pdf
 
 
 url_pdf: ''

@@ -88,8 +88,24 @@ sections:
       #   - name: All
       #     tag: '*'
     design:
+      css_class: bg-gray-100
       view: citation
       
+  - block: collection
+    id: talks
+    content:
+      title: Recent & Upcoming Talks
+      filters:
+        folders:
+          - projects
+
+    design:
+      view: card
+      columns: 3
+
+
+
+    
   - block: collection
     id: talks
     content:
